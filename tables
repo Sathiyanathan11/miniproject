@@ -1,0 +1,15 @@
+create  table mechanical(
+name varchar(40),number long,mark int,district varchar(120), aadhar_number long,father_name varchar(30),mother_name varchar(30)
+);
+create  table ece(
+name varchar(40),number long,mark int,district varchar(120), aadhar_number long,father_name varchar(30),mother_name varchar(30)
+);
+create  table cse(
+name varchar(40),number long,mark int,district varchar(120), aadhar_number long,father_name varchar(30),mother_name varchar(30)
+);
+create  table eee(
+name varchar(40),number long,mark int,district varchar(120), aadhar_number long,father_name varchar(30),mother_name varchar(30)
+);
+create  table it(
+name varchar(40),number long,mark int,district varchar(120), aadhar_number long,father_name varchar(30),mother_name varchar(30)
+);
